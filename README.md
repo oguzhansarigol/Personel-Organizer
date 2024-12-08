@@ -12,7 +12,7 @@ Bu uygulamanın amacı, Özellikle bilgisayar mühendisi kullanıcıların günl
 - Hatırlatıcılar oluşturma ve düzenleme
 - Telefon rehberi yönetimi
 - Kullanıcı dostu arayüz
-- # Bilgisayar mühendisi maaş hesaplama modülü
+- ### Bilgisayar mühendisi maaş hesaplama modülü
 
 ## Teknolojiler
 - **Programlama Dili:** C#
