@@ -38,5 +38,5 @@ Bu uygulamanın amacı, Özellikle bilgisayar mühendisi kullanıcıların günl
 - Asrınalp Şahin
 
 ## İletişim
-Herhangi bir sorunuz veya öneriniz varsa, lütfen [ogzhnsrgll@gmail.com(mailto:ogzhnsrgll@gmail.com) adresi üzerinden iletişime geçin.
+Herhangi bir sorunuz veya öneriniz varsa, lütfen mailto:ogzhnsrgll@gmail.com adresi üzerinden iletişime geçin.
 
