@@ -4,7 +4,7 @@
 Bu proje, Eskişehir Osmangazi Üniversitesi Bilgisayar Mühendisliği Bölümü'nde gerçekleştirilen bir ders projesidir. Kişiye özel bir organizatör uygulaması geliştirilmiştir. Uygulama, kullanıcıların not alma, hatırlatıcı ayarlama, telefon rehberi yönetimi ve profil oluşturma gibi işlemleri kolayca yapabilmelerini sağlamaktadır.
 
 ## Amaç
-Bu uygulamanın amacı, Özellikle bilgisayar mühendisi kullanıcıların günlük yaşamlarını daha iyi organize edebilmeleri için bir platform sunmaktır. Kullanıcılar, önemli tarihleri ve görevleri takip edebilir, notlar alabilir ve kişisel bilgilerini yönetebilirler.
+Uygulamanın amacı, Özellikle bilgisayar mühendisi kullanıcıların günlük yaşamlarını daha iyi organize edebilmeleri için bir platform sunmaktır. Kullanıcılar, önemli tarihleri ve görevleri takip edebilir, notlar alabilir ve kişisel bilgilerini yönetebilirler.
 
 ## Özellikler
 - Kullanıcı profili oluşturma ve güncelleme
@@ -29,7 +29,7 @@ Bu uygulamanın amacı, Özellikle bilgisayar mühendisi kullanıcıların günl
 - Profilinizi oluşturun ve kişisel bilgilerinizi girin.
 - Notlarınızı ekleyin, düzenleyin ve silin.
 - Hatırlatıcılar oluşturun ve önemli tarihler için bildirimler ayarlayın.
-- Telefon rehberinizi yönetin; kişisel ve iş kontaklarınızı ekleyin, düzenleyin ve silebilirsiniz.
+- Telefon rehberinizi yönetin; kişisel ve iş kontaklarınızı ekleyin, düzenleyin ve silin.
 
 ## Katkıda Bulunanlar
 - Oğuzhan Sarıgöl
